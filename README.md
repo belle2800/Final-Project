@@ -36,7 +36,7 @@ Here are the projects included in my portfolio:
   This was our group project which we were very proud of. With this game we implmenteing different levels and give hints for the user to have more times to guess the correct number making it such a quick and fun game. 
 
 - **Simon Says..Game**  
-  Lastly,this was my last project which was a memory ad pattern game. This game was to make a certain sequence and for the user to get it correct had certai amount of wins to go to the next level to increase the intensity of the game.
+  Lastly,this was my last project which was a memory and pattern game. This game was to make a certain sequence and for the user to get it correct had certai amount of wins to go to the next level to increase the intensity of the game.
 
 ## Links
 
